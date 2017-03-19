@@ -1,7 +1,7 @@
 {
     "particles": {
         "number": {
-            "value": 80,
+            "value": 60,
             "density": {
                 "enable": true,
                 "value_area": 800
@@ -14,7 +14,7 @@
             "type": "circle",
             "stroke": {
                 "width": 0,
-                "color": "#000000"
+                "color": "random"
             },
             "polygon": {
                 "nb_sides": 10
@@ -49,7 +49,7 @@
             "enable": true,
             "distance": 200,
             "color": "#000",
-            "opacity": 1,
+            "opacity": 0.5,
             "width": 2
         },
         "move": {

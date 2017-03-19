@@ -197,6 +197,15 @@ main .icon-list > li.facebook:hover {
 	background: #3b5998;
 }
 
+main .icon-list > li.instagram {
+	border-color: #3b5998;
+	color: #3b5998;
+}
+
+main .icon-list > li.instagram:hover {
+	background: #3b5998;
+}
+
 main .icon-list > li.email {
 	border-color: #777;
 	color: #777;

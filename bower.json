@@ -1,7 +1,7 @@
 {
-  "name": "Divyanshu Portfolio",
+  "name": "Susmit Portfolio",
   "authors": [
-    "Divyanshu rawat"
+    "Susmit Lavania"
   ],
   "description": "My Portfolio",
   "main": "index.html",
@@ -11,7 +11,7 @@
     "particle.js"
   ],
   "license": "MIT",
-  "homepage": "https://divyanshurawat.herokuapp.com/",
+  "homepage": "https://phunsukwangdu.github.io/",
   "ignore": [
     "**/.*",
     "node_modules",
